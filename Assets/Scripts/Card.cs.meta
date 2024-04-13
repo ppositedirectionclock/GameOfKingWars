@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 9011180ad2b386e4e982775ebcbe0dd0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - button: {instanceID: 0}
+  - characterShowGo: {instanceID: 0}
+  - cardText: {instanceID: 0}
+  - magicCircleGo: {instanceID: 0}
+  - imgEnergyT: {instanceID: 0}
+  - useCardSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

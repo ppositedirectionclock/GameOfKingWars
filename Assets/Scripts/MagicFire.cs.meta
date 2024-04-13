@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 54577ab112b5cfa4c9f54139114338e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - meshAgent: {instanceID: 0}
+  - targetUnit: {instanceID: 0}
+  - defaultTarget: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - useClip: {instanceID: 0}
+  - hitClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
